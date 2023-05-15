@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Tad Montgomery &amp; Associates	</title>
-	<atom:link href="./comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Ecological Engineer</description>
 	<lastBuildDate>Sun, 11 Apr 2021 13:19:12 +0000</lastBuildDate>
